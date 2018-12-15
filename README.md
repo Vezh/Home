@@ -6,12 +6,16 @@
 Package | String | Version
 --- | --- | ---
 **Node**| `node` | **?**
+**Npm** | 'npm' | **?**
+**Angular cli** | `npm install -g @angular/cli` | **?**
+
+
+
+
 
 ```markdown
 
-Package | String | Version
---- | --- | ---
-**Node**| `node` | **?**
+
 
 
 # Header 1
