@@ -1,8 +1,8 @@
 
-## VEZH
+# VEZH
 
 
-### Packages
+## Packages
 
 Package | String | Version
 --- | --- | ---
@@ -14,26 +14,26 @@ Package | String | Version
 **Bootstrap** | `npm install —-save bootstrap` | **4.1.3**
 
 
-### Structure
+# Structure
 
 
-### UI
+# UI
 
 
-### Content
+# Content
 
 ## Categories
 
 
-# VST Plugins
+### VST Plugins
 
-# Movies & Series
+### Movies & Series
 
-# Music
+### Music
 
-# iOS
+### iOS
 
-# OSX & MacOS
+### OSX & MacOS
 
 
 ### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-pages-box)
