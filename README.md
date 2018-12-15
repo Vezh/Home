@@ -25,9 +25,13 @@ Package | String | Version
 ## Categories
 
 # VST Plugins
+
 # Movies & Series
+
 # Music
+
 # iOS
+
 # OSX & MacOS
 
 
