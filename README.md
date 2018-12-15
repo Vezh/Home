@@ -6,7 +6,7 @@
 Package | String | Version
 --- | --- | ---
 **Node**| `node` | **?**
-**Npm** | 'npm' | **?**
+**Npm** | `npm`| **?**
 **Angular cli** | `npm install -g @angular/cli` | **?**
 
 
