@@ -39,5 +39,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for 
-### (Cheatsheet)(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-pages-box)
+(Markdown Cheatsheet)(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-pages-box)
