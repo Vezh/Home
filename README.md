@@ -24,5 +24,11 @@ Package | String | Version
 
 ## Categories
 
+# VST Plugins
+# Movies & Series
+# Music
+# iOS
+# OSX & MacOS
+
 
 ### [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-pages-box)
