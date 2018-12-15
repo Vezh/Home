@@ -16,6 +16,8 @@ Package | String | Version
 **Fortawesome** | `npm install @fortawesome/fontawesome-free` | **5.6.1**
 **Bootstrap** | `npm install —-save bootstrap` | **4.1.3**
 
+# Check this
+https://www.positronx.io/angular-7-firebase-5-crud-operations-with-reactive-forms/
 
 # Structure
 
