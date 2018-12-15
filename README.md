@@ -8,6 +8,7 @@ Package | String | Version
 **Node**| `node` | **?**
 **Npm** | `npm`| **?**
 **Angular cli** | `npm install -g @angular/cli` | **?**
+**AngularFire** | `npm install firebase @angular/fire --save ` | **?**
 
 ### Structure
 
