@@ -1,7 +1,7 @@
 ## VEZH
 
 
-### Setup
+### Packages
 
 ```markdown
 Syntax highlighted code block
